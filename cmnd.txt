@@ -1,1 +1,2 @@
-echo hello boi
+ip addr
+whoami
